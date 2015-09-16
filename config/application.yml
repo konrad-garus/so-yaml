@@ -1,0 +1,9 @@
+available-payment-channels-list:
+  xyz: "123"
+  channelConfigurations:
+    -
+      name: "Company X"
+      companyBankAccount: "1000200030004000"
+    -
+      name: "Company Y"
+      companyBankAccount: "1000200030004000"
